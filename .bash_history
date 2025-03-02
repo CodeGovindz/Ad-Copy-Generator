@@ -351,3 +351,15 @@ ls
 python3 main.py
 ls
 python3 main.py
+sudo yum update -y 
+sudo yum install git -y
+git --version
+git init
+git status
+git add .
+git config --global user.name "CodeGovindz"
+git config --global user.email "govindsharma2022btech@jklu.edu.in"
+git config --list
+git init
+git add .
+git commit -m "Initial commit: Added Ad Copy Generator project"
